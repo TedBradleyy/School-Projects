@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "15SjXcoUGVArb25KPu6rLB7dh2w+cn2eYpkxG0YrHJY39S++MCDGM6VWLtMD2iTug0g3mXCUur8s2Gd/e+6Kuw==",
+  "success": true,
+  "projectFilePath": "/Users/tedbradley/Projects/VendingMachineProject/VendingMachineProject/VendingMachineProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/tedbradley/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/tedbradley/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/tedbradley/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
